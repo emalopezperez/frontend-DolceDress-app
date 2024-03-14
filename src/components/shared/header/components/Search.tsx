@@ -5,7 +5,7 @@ import {
 
 const Search = () => {
   return (
-    <a href="#" className="p-2 text-green-900 hover:text-gray-500">
+    <a href="#" className="p-2 text-black hover:text-gray-500">
       <span className="sr-only">Search</span>
       <MagnifyingGlassIcon className="h-6 w-6" aria-hidden="true" />
     </a>
