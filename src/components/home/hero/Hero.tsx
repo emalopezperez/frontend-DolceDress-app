@@ -29,7 +29,7 @@ const slides = [
 
 export default function Hero() {
   return (
-    <div className="relative h-screen w-full flex items-center">
+    <div className="relative  lg:h-screen h-[520px] md:h-[650px] w-full flex items-center ">
       <ul className="">
         <ListSlider slides={slides} />
       </ul>

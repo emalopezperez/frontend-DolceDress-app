@@ -23,7 +23,7 @@ export default function RootLayout({
       <body className={roboto.className}>
         <div className="bg-gray-100">
           <Header />
-          <main className="mx-auto max-w-full  h-[100vh] w-full">
+          <main className="mx-auto max-w-full h-[100vh] w-full">
             {children}
           </main>
         </div>
