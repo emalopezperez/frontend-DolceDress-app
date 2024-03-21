@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { ImagesModel } from "app/models/Images";
-import { blurImage } from "../../../../lib/utils";
+import { blurImage } from "../../../lib/utils";
 
 const Images: React.FC<ImagesModel> = ({
   urlImg,

@@ -1,5 +1,5 @@
 "use client";
-import { cn } from "../../../../../lib/utils";
+import { cn } from "../../../../lib/utils";
 import Images from "app/components/shared/image/Images";
 import { InfoHero } from "app/models/Hero";
 
